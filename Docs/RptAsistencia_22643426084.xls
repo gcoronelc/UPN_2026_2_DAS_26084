@@ -1,0 +1,87 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">C&#243;digo</th><th scope="col">Nombres</th><th scope="col">Carrera</th><th scope="col">Ciclo</th><th scope="col">N&#250;mero Vez</th><th scope="col">Nro Faltas</th><th scope="col">Estado</th><th scope="col">Fecha Inhabilitaci&#243;n</th><th scope="col">Fecha Retiro</th>
+		</tr><tr>
+			<td>N00395256</td><td>AG&#252;ERO VARGAS, JOSEPH MAXIMO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00365842</td><td>ALCALDE BURGOS, PAOLO CONSTANTINO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00390785</td><td>ALLCCA CHAVEZ, GIANPIERE ANDRES</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00410380</td><td>ANDERSON HUAMAN, ANTHONY LEONEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00315760</td><td>ARANA CHAMULI, ALEXANDER BILL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00373201</td><td>BARA CORONEL, LUIS ANGEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00350387</td><td>BARRON TELLO, GEROME ISAC</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00366263</td><td>CACERES ESPINOZA, CRISTIAN RONY</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00387245</td><td>CAMILO MORA, RAFAEL ALEXANDER</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00391342</td><td>CAMPOVERDE MARTINEZ, MARTIN FABRICIO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00408417</td><td>CAVERO FERRER, DAKSH ADONYS</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00406493</td><td>CRUZ ASENCIO, JORGE ANIBAL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00378323</td><td>DIAZ DIAZ, JOSUE AARON</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00331410</td><td>ESCRIBA CONTRERAS, JAIR BRIAN TINO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00404526</td><td>FONSECA CHAUPIS, YOSMEL ADLER</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00351602</td><td>GARCIA DONGO, JOSE ALESSANDRO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00408641</td><td>GARCIA PINEDA, ALEXIS LEONEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00396309</td><td>MACHACA GUERRERO, WILLIAM ENRIQUE</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00112384</td><td>MORALES RODRIGUEZ, DHOMYNICK GIAMPIERO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00351395</td><td>MORENO ORELLANA, JERSON CESAR MIGUEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>2</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00408446</td><td>OLAYA ACOSTA, EDWIN ALEXIS</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00386144</td><td>ORDO&#209;EZ AYALA, MIGUEL ANGEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00392301</td><td>ORTEGA HERRERA, JEAN CARLOS</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00402162</td><td>PALACIOS GARCIA, DANIEL ARMANDO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00384594</td><td>RACCHUMI JULON, YEREMI ADRIAN</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>2</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00410103</td><td>REBAZA ACU&#209;A, DIEGO ANTONIO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00403008</td><td>REBAZA LLAMOCA, VALENTINO ESTEFANO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00407877</td><td>REYNALDO PALOMINO, DEYVI BEECKER</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00320654</td><td>ROJAS DUE&#209;AS, MATHIAS VALENTINO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00385767</td><td>RUIZ RODRIGUEZ, LUIS EDUARDO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00391430</td><td>SALAZAR ESCOBEDO, ANGELO MARTIN</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00404691</td><td>TAFUR CONTRERAS, EYMI ANAMEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00397414</td><td>TAMARA TAPIA, LUIGGI VERIK</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>1</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00409120</td><td>TASAYCO SICOS, FERNANDO DANIEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00222963</td><td>TRUJILLO TARAZONA, ASTRYD ALEXANDRA</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>2</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00355259</td><td>URIBE OCUPA, ROBERTO ALONSO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00395833</td><td>VELIZ VASQUEZ, ANA FLAVIA</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00409839</td><td>VIDAL TOMAPASCA, CARLOS DANIEL</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00387543</td><td>VILCA VIVANCO, RAUL ELIAS</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>0</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr><tr>
+			<td>N00338938</td><td>ZULOETA CUEVAS, FRANCHESCO LUCIANO</td><td>Ing. de Sist. Computacionales</td><td>7</td><td>1</td><td>2</td><td>&#160;</td><td>&#160;</td><td>&#160;</td>
+		</tr>
+	</table>
+</div>
