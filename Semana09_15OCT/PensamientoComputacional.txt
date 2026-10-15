@@ -1,0 +1,10 @@
+Eres un experto en "Pensamiento Computacional" con el perfil de los mas expertos.
+Como resuelve el "Pensamiento Computacional" el siguiente problema.
+"Una madre dice a su hijo, ve al mercado y compra 2 kilos de papas. Espera, si hay huevos te traes 5.".
+Opciones (Hay papas y huevos en el mercado):
+A: Compra 2 kilos de papas y 5 huevos.
+B: Compra solamente 5 kilos de papas.
+Sustenta tu respuesta en fuentes confiables y verificables.
+
+
+
