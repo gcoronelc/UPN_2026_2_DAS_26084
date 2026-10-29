@@ -1,0 +1,26 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package dip;
+
+/**
+ *
+ * @author UPN
+ */
+public class test1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        
+        CanalMensaje canal = new MensajeConsola();
+        
+        Notificador n = new Notificador(canal);
+        
+        n.notificar();
+    }
+    
+}
